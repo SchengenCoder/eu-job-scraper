@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+#Environment variables 
+.env
+.env.local
+secrets.py
+.vscode/
+.DS_STORE
+Thumbs.db
+*.log
+logs/
+*.csv
+*.json
+!sample_output.csv
